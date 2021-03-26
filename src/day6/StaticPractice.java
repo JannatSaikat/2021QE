@@ -15,7 +15,7 @@ public class StaticPractice {
         System.out.println("Sum is: " + c);
     }
 
-    static void multiply() {
+     void multiply() {
         int c = a * b;
         System.out.println("Multiplication is: " + c);
     }
@@ -23,5 +23,7 @@ public class StaticPractice {
     void division() {
         int c = b/a;
         System.out.println("Division is: " + c);
+
+
     }
 }

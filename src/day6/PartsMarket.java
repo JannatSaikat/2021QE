@@ -10,7 +10,7 @@ public class PartsMarket {
         System.out.println("Samsung creates display");
     }
 
-    void batteryPack(){
+    protected void batteryPack(){
         System.out.println("LG prepares battery");
     }
 

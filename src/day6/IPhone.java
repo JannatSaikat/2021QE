@@ -21,7 +21,7 @@ public class IPhone {
         System.out.println("Apple Creates their own CPU");
     }
 
-    void operatingSystem(){
+    protected void operatingSystem(){
         System.out.println("iOS made by Apple");
     }
 
