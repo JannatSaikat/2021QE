@@ -17,6 +17,7 @@ public class DataStructures {
         //way 1
         for(int b = 0; b < a.length ; b++) {
             System.out.println(a[b]);
+            System.out.println(fruits.get(b));
         }
         //way 2
         for (int e: a) {
